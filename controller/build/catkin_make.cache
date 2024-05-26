@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/pj/pnc/controller/devel -DCMAKE_INSTALL_PREFIX=/home/pj/pnc/controller/install -G Unix Makefiles
